@@ -1,0 +1,31 @@
+student_id,name,age,gpa,exam_score,city,attendance_pct
+T08501,"Perera, Kasun",22,3.45,78,Colombo,92.5
+T08502,Nimali Silva,21,3.82,91,Kandy,98.0
+T08503,Ashan Fernando,23,2.97,64,Galle,81.3
+T08504,Dilani Jayasinghe,22,3.61,85,Colombo,95.2
+T08505,"Bandara, Ruwan",24,2.55,,Matara,70.4
+T08506,Ishara Wickramasinghe,21,3.90,95,Negombo,99.1
+T08507,Tharindu Rathnayake,22,3.12,71,Kurunegala,88.7
+T08508,Sachini Herath,23,3.33,76,Colombo,90.0
+T08509,Kavindu Gunawardena,22,2.81,59,Jaffna,76.8
+T08510,Malsha Dissanayake,21,3.74,88,Kandy,96.4
+T08511,Pasindu Karunaratne,25,2.40,52,Anuradhapura,68.9
+T08512,Hiruni Senanayake,22,3.58,83,Colombo,93.7
+T08513,Chamath Abeysekara,23,3.05,69,Galle,85.0
+T08514,Nethmi Ranasinghe,21,3.95,97,Colombo,100.0
+T08515,Yasiru Wijesinghe,22,2.73,61,Badulla,79.5
+T08516,Sanduni Edirisinghe,22,3.41,79,Kandy,91.2
+T08517,Ravindu Samarasinghe,24,2.92,,Ratnapura,74.1
+T08518,Oshadi Weerasinghe,21,3.67,86,Colombo,94.8
+T08519,Lahiru Kumara,23,3.18,73,Trincomalee,87.3
+T08520,Thilini Madushani,22,3.50,81,Negombo,92.0
+T08521,Dinuka Pathirana,22,2.66,57,Matara,72.6
+T08522,Gayani Ekanayake,21,3.79,90,Kandy,97.5
+T08523,Supun Rajapaksha,23,3.27,75,Colombo,89.4
+T08524,Imesha Gamage,22,3.86,93,Galle,98.6
+T08525,Kasun Liyanage,24,2.49,55,Kurunegala,71.0
+T08526,Rashmi Amarasinghe,22,3.39,77,Colombo,90.9
+T08527,Janith Hettiarachchi,23,3.02,67,Jaffna,83.8
+T08528,Piumi Kodithuwakku,21,3.71,87,Colombo,95.9
+T08529,Sahan Mendis,22,2.88,62,Badulla,78.2
+T08530,Anjali De Silva,22,3.64,84,Kandy,94.1
